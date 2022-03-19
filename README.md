@@ -1,4 +1,4 @@
-# Desktop-alarm-clock
+# 桌面显示闹钟简约风的时钟
 一款实现于桌面显示闹钟简约风的时钟
 效果预览图:
 https://s1.ax1x.com/2022/03/16/qpGKW8.png
